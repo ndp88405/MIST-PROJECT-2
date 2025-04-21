@@ -10,3 +10,4 @@ MIST 4610 - Project 2
 <h1> Questions (2) </h1>
 <h1> Analysis and Results </h1>
 <h1> Tableau Packaged Workbook </h1>
+<a href="https://raw.githubusercontent.com/ndp88405/MIST-PROJECT-2/refs/heads/main/Prokect%202%20-%20Question%202.twbx">Question 2 Packaged Workbook</a>

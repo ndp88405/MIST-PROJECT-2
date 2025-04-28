@@ -14,4 +14,5 @@ MIST 4610 - Project 2
 <h1> Questions (2) </h1>
 <h1> Analysis and Results </h1>
 <h1> Tableau Packaged Workbook </h1>
+<a href="https://raw.githubusercontent.com/ndp88405/MIST-PROJECT-2/refs/heads/main/new%20california%20heat%20map%20woorkbook%20with%20avg%20income.twbx">Question 1</a>
 <a href="https://raw.githubusercontent.com/ndp88405/MIST-PROJECT-2/refs/heads/main/Project%202%20-%20Question%202.twbx">Question 2</a>

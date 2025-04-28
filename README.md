@@ -14,4 +14,5 @@ MIST 4610 - Project 2
 <h1> Questions (2) </h1>
 <h1> Analysis and Results </h1>
 <h1> Tableau Packaged Workbook </h1>
+<a href="https://github.com/ndp88405/MIST-PROJECT-2/blob/d079f5bceb389a0ed1d00c73cc74a10d7dc7340f/Project%202%20-%20Question%202.twbx" > Question 2</a>
 

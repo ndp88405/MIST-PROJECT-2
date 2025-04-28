@@ -16,6 +16,29 @@ MIST 4610 - Project 2
 
 <ol>1. Which counties in California have the lowest food affordability ratios, and how does that relate to their median income levels?</ol>
 <ol>2. Do racial and ethnic disparities in food affordability vary between the Bay Area and San Joaquin Valley in California during the 2006-2010 period?</ol>
+<h4>Question 1 Importance</h4>
+<li>Economic Importance:</li>
+<p>Identifying counties with the worst food affordability highlights regions where residents are most financially burdened. This can inform government resource allocation (such as food assistance programs, minimum wage policies, or local subsidies).</p>
+<li>Social Importance:</li>
+<p>Food insecurity often leads to poor health outcomes, higher stress, and reduced educational performance. Highlighting counties where food affordability is worst helps target community health interventions.</p>
+<li>Cultural Importance:</li>
+<p>When food becomes unaffordable, culturally significant foods might be substituted with cheaper, less healthy alternatives. This can erode cultural food traditions and community identity.</p>
+<h4>Tied to Datasets</h4>
+<li>The food affordability ratios are directly mentioned in the Data Dictionary and would typically be measured from surveys like the USDA's or Feeding America's food insecurity studies.</li>
+<li>Median income data for each county during 2006–2010 is tied to the American Community Survey (ACS) 5-Year Estimates, referenced in your dataset documentation.</li>
+<li>County-level mapping from the "MPO-CountyList" sheet allows linking affordability outcomes with specific counties.</li>
+<h4>Question 2 Importance</h4>
+<li>Social Importance:</li>
+<p>Examining racial and ethnic disparities addresses social justice concerns. If certain racial/ethnic groups systematically face worse food affordability, that reflects systemic inequality requiring policy solutions.</p>
+<li>Economic Importance:</li>
+<p>Food affordability directly impacts wealth building and economic opportunity. Addressing disparities can help close economic gaps between racial and ethnic groups.</p>
+<li>Cultural Importance:</li>
+<p>Access to culturally appropriate foods is key to preserving the identity and traditions of minority groups. Lack of affordability for these foods can have long-term cultural consequences.</p>
+<h4>Tied to Datasets</h4>
+<li>Race/ethnicity breakdowns (race_eth_code, race_eth_name) are explicitly listed in the Data Dictionary.</li>
+<li>Regional grouping (Bay Area vs. San Joaquin Valley) can be constructed using the "MPO-CountyList," which connects counties to broader regions.</li>
+<li>The 2006–2010 time frame matches the reporting years stated in your metadata, ensuring the findings align with the historical context.</li>
+
 
 <h1> Manipulations </h1>
 There was not any manipulations or calculations that the data needed in order to present a visualization. We used the data as it was given to us. 

@@ -2,9 +2,9 @@
 MIST 4610 - Project 2 
 <h1>TEAM MEMBERS (21484_G6)</h1>
 <li>Ademoye, Adekanle <a href="https://github.com/ata-uga">ata-uga</a></li>
-<li>Keenan, Patrick <a href="https://github.com/pjkkeenan">pk13246</a></li>
+<li>Keenan, Patrick <a href="https://github.com/pjkkeenan">pjkkeenan</a></li>
 <li>Patel, Kishan <a href="https://github.com/kp0024">kp0024</a></li>
-<li>Thomas, Reuben <a href="https://github.com/Reubenuga">rmt08737</a></li>
+<li>Thomas, Reuben <a href="https://github.com/Reubenuga">Reubenuga</a></li>
 <li>Patel, Nidhi <a href="https://github.com/ndp88405">ndp88405</a></li>
 <h1> Dataset Description </h1>
 
@@ -13,6 +13,10 @@ MIST 4610 - Project 2
 
 <h1> Questions (2) </h1>
 <h1> Analysis and Results </h1>
+<img width="630" src ="https://github.com/user-attachments/assets/29dfc01e-5d3f-4351-8828-ca926cef7154">
+<img width="630" src ="https://github.com/user-attachments/assets/3275bb15-9a46-4462-8ec5-ce2d6240f8ff">
+
+
 <h1> Tableau Packaged Workbook </h1>
 <ul><a href="https://raw.githubusercontent.com/ndp88405/MIST-PROJECT-2/refs/heads/main/new%20california%20heat%20map%20woorkbook%20with%20avg%20income.twbx">Question 1</a></ul>
 <ul><a href="https://raw.githubusercontent.com/ndp88405/MIST-PROJECT-2/refs/heads/main/Project%202%20-%20Question%202.twbx">Question 2</a></ul>

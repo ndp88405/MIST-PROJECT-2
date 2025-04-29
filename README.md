@@ -62,5 +62,5 @@ There was not any manipulations or calculations that the data needed in order to
 
 
 <h1> Tableau Packaged Workbook </h1>
-<ul><a href="https://raw.githubusercontent.com/ndp88405/MIST-PROJECT-2/refs/heads/main/new%20california%20heat%20map%20woorkbook%20with%20avg%20income.twbx">Question 1</a></ul>
+<ul><a href="https://github.com/ndp88405/MIST-PROJECT-2/blob/75bf6ad7d613911ff19c837c93f7553a1ccffbfa/Question%201%20.twbx">Question 1</a></ul>
 <ul><a href="https://raw.githubusercontent.com/ndp88405/MIST-PROJECT-2/refs/heads/main/Project%202%20-%20Question%202.twbx">Question 2</a></ul>
